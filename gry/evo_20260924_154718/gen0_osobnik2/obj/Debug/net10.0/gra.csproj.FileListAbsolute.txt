@@ -1,4 +1,0 @@
-C:\roj\gry\evo_20260924_154718\gen0_osobnik2\obj\Debug\net10.0\gra.GeneratedMSBuildEditorConfig.editorconfig
-C:\roj\gry\evo_20260924_154718\gen0_osobnik2\obj\Debug\net10.0\gra.AssemblyInfoInputs.cache
-C:\roj\gry\evo_20260924_154718\gen0_osobnik2\obj\Debug\net10.0\gra.AssemblyInfo.cs
-C:\roj\gry\evo_20260924_154718\gen0_osobnik2\obj\Debug\net10.0\gra.csproj.CoreCompileInputs.cache

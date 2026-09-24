@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+gry/
+**/bin/
+**/obj/
+.vs/
+.ollama/
+*.dll
+*.exe
+*.pdb
+*.deps.json
+*.runtimeconfig.json
