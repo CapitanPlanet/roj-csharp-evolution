@@ -1,0 +1,4 @@
+C:\roj\gry\gra_20260924_141958_771\obj\Debug\net10.0\gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\roj\gry\gra_20260924_141958_771\obj\Debug\net10.0\gra.AssemblyInfoInputs.cache
+C:\roj\gry\gra_20260924_141958_771\obj\Debug\net10.0\gra.AssemblyInfo.cs
+C:\roj\gry\gra_20260924_141958_771\obj\Debug\net10.0\gra.csproj.CoreCompileInputs.cache

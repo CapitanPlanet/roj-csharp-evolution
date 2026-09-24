@@ -1,0 +1,14 @@
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\bin\Debug\net10.0\gra.exe
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\bin\Debug\net10.0\gra.deps.json
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\bin\Debug\net10.0\gra.runtimeconfig.json
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\bin\Debug\net10.0\gra.dll
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\bin\Debug\net10.0\gra.pdb
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\gra.AssemblyInfoInputs.cache
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\gra.AssemblyInfo.cs
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\gra.csproj.CoreCompileInputs.cache
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\gra.dll
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\refint\gra.dll
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\gra.pdb
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\gra.genruntimeconfig.cache
+C:\roj\gry\elastyczny_20260924_173525\BEST-PRZERWANE\obj\Debug\net10.0\ref\gra.dll
